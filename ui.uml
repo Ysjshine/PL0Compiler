@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.yu.compiler.ui</OriginalElement>
+  <nodes>
+    <node x="0.0" y="0.0">com.yu.compiler.ui.MyPrintStream</node>
+    <node x="103.0" y="124.0">com.yu.compiler.ui.IDE</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.yu.compiler.ui.IDE" target="com.yu.compiler.ui.MyPrintStream">
+      <point x="-41.75" y="-59.0" />
+      <point x="144.75" y="99.0" />
+      <point x="93.25" y="99.0" />
+      <point x="-93.25" y="37.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="69.0" y="312.5" />
+  <SelectedNodes>
+    <node>com.yu.compiler.ui.MyPrintStream</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

@@ -1,0 +1,21 @@
+const a = 10;
+var b,c;
+procedure p;
+    begin
+        repeat
+            write(b,c,b*c);
+	    if b <> 0 then write(c/b) else write(b);
+            b := b+1;
+	    c := c-1
+        until b > c
+    end;
+
+procedure p1;
+	begin
+		write(a,b,c)
+	end;
+begin
+    read(b,c);
+    call p;
+    call p1;	
+end.

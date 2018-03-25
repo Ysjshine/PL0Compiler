@@ -1,0 +1,19 @@
+const z = 1,p;
+var head,foot,cock,rabbit,n;
+begin
+    n:=z;
+    read (z,foot);
+    cock := 
+    while cock := head do
+    begin 
+        rabbit = head-cock;
+        if cock*2 + rabbit*4 = foot then
+        begin
+            write cock,rabbit);
+            n := n1
+
+        end;
+Aaaa
+        cock := cock+1
+    end;
+end.
